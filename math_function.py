@@ -19,3 +19,4 @@ if __name__=="__main__":
     welcome()
     isprime(5)
     factorial(7)
+    כככמלמלמ
